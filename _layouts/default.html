@@ -18,9 +18,12 @@ layout: compress
 
     {{ content }}
 
-    <footer class="page__footer" style="border-top:0; box-shadow:none; width:100%;">
-      {% include footer.html %}
-    </footer>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
     {% include scripts.html %}
 
