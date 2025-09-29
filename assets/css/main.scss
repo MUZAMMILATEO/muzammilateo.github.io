@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ---- Custom overrides ---- */
+footer.page__footer {
+  /* remove the top rule / shadow just in case */
+  border-top: 0 !important;
+  box-shadow: none !important;
+
+  /* make the grey bar span the full viewport width */
+  width: 100vw !important;
+  margin-left: calc(50% - 50vw) !important;  /* escape the centered layout */
+}
+
+footer.page__footer .page__footer-copyright {
+  text-align: center;               /* centre the text */
+  max-width: none !important;       /* avoid inner width caps */
+  padding: 0.75rem 1rem;            /* a little breathing room */
+}
