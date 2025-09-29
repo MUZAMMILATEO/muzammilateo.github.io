@@ -42,7 +42,16 @@
     "vendor/font-awesome/brands"
 ;
 
-// Custom overrides
-.page__footer {
-  border-top: none !important;
+// --- Custom overrides ---
+footer.page__footer { 
+  border-top: 0 !important; 
+  box-shadow: none !important; 
+}
+
+footer.page__footer .page__footer-follow {
+  border-top: 0 !important;
+}
+
+footer.page__footer hr {
+  display: none !important;
 }
