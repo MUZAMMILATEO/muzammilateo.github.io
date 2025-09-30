@@ -9,7 +9,7 @@ venue: 'IEEE Access (under review)'
 slidesurl: 
 paperurl: 'https://doi.org/10.48550/arXiv.2508.11282'
 bibtexurl: 
-citation: 'Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel. *Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction*. IEEE Access (under review), 2025.'
+citation: 'Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel. _Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction_. IEEE Access (under review), 2025.'
 ---
 
 Accurate **localisation of endoscopes** and **reconstruction of the surrounding tissue** surface are critical for safer and more effective minimally invasive surgery. Traditional monocular approaches struggle with challenges such as **depth ambiguity**, **tissue deformation**, **inconsistent camera motion**, and **limited visual texture**.
