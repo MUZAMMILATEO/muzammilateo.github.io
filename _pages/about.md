@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "About Me"
 permalink: /
 author_profile: true
+classes: about-justify
 ---
 
 ## Welcome
