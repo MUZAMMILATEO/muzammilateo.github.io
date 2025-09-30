@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Justify paragraphs inside elements marked .justify */
+.justify p {
+  text-align: justify;
+  text-justify: inter-word;
+}
