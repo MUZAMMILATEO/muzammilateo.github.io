@@ -54,10 +54,3 @@ h1.page__title {
   text-align: justify !important;
   text-justify: inter-word;
 }
-
-/* Justify any paragraph containing citations in publications */
-.page__content p,
-.page__content .archive__item-citation {
-  text-align: justify !important;
-  text-justify: inter-word;
-}
