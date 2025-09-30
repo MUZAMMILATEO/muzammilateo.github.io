@@ -9,7 +9,6 @@ venue: 'IEEE Access (under review)'
 slidesurl: 
 paperurl: 'https://doi.org/10.48550/arXiv.2508.11282'
 bibtexurl: 
-citation: 'Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel. Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction. IEEE Access (under review), 2025.'
 ---
 
 <div style="text-align:justify; text-justify:inter-word;">
@@ -20,5 +19,11 @@ To address these issues, we propose a unified framework that combines scale-awar
 For accurate 3D registration, we further develop the WEMA-RTDL module, ensuring consistent camera tracking and alignment. The reconstructed depth data are fused into detailed 3D meshes of the surgical scene, providing a reliable spatial representation.
 
 Evaluations on benchmark datasets (HEVD and SCARED) show that our framework outperforms existing methods, delivering more stable and precise reconstructions for monocular endoscopy.
+</div>
+
+<div style="text-align:justify; text-justify:inter-word; margin-top:15px;">
+Recommended citation: Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel.  
+*Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction*.  
+IEEE Access (under review), 2025.
 </div>
 
