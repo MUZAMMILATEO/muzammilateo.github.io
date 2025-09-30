@@ -17,21 +17,17 @@ I am **Muzammil Khan**, a Postdoctoral Researcher in the **Robotics and Mechatro
 
 I completed my PhD in Computer Vision and Machine Learning, where my research centred on **optical flow estimation** and its applications to 3D scene understanding.  
 
----
-
 ## Research Highlights
 
 - **Hybrid Visual SLAM** for laparoscopic navigation (HVSLAM)
 - **Explainable and Likelihood-Aware AI** for MRI-based bladder tumour prediction
 - **Statistical AI Framework** for reliable smoke/fire surveillance
 
----
 
 ## Publications
 
 A full list of my publications can be found [here](publications.md).  
 
----
 
 ## Contact
 
