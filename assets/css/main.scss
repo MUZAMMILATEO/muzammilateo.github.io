@@ -42,8 +42,8 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Justify paragraphs inside elements marked .justify */
+/* Force justification inside .justify */
 .justify p {
-  text-align: justify;
+  text-align: justify !important;
   text-justify: inter-word;
 }
