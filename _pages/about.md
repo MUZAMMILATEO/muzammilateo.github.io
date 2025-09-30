@@ -7,8 +7,7 @@ author_profile: true
 
 ## Welcome
 
-I am **Muzammil Khan**, a Postdoctoral Researcher in the **Robotics and Mechatronics (RaM) Group at the University of Twente**, The Netherlands.  
-My work is situated at the interface of **Computer Vision, Artificial Intelligence, and Medical Robotics**, with particular interests in:
+I am **Muzammil Khan**, a Postdoctoral Researcher in the **Robotics and Mechatronics (RaM) Group at the University of Twente**, The Netherlands. My work is situated at the interface of **Computer Vision, Artificial Intelligence, and Medical Robotics**, with particular interests in:
 
 - Visual SLAM and monocular reconstruction for minimally invasive surgery  
 - Generative and explainable AI in healthcare  
