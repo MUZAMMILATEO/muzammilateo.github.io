@@ -23,7 +23,7 @@ Evaluations on benchmark datasets (HEVD and SCARED) show that our framework outp
 
 <div style="text-align:justify; text-justify:inter-word; margin-top:15px; font-size:0.9em; font-style:italic;">
   <strong>Recommended citation:</strong> Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel.  
-  *Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction*.  
+  Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction.  
   IEEE Access (under review), 2025.
 </div>
 
