@@ -48,9 +48,9 @@
   text-justify: inter-word;
 }
 
-/* Justify only publication page titles */
-.layout--publication .page__title {
+/* Force justification of publication titles */
+h1.page__title {
+  width: 100%;
   text-align: justify !important;
   text-justify: inter-word;
 }
-
