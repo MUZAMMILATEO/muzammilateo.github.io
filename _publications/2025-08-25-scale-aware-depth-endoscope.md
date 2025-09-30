@@ -12,7 +12,7 @@ bibtexurl:
 citation: 'Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel. Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction. IEEE Access (under review), 2025.'
 ---
 
-<div class="justify">
+<div style="text-align:justify; text-justify:inter-word;">
 Accurate localisation of endoscopes and reconstruction of the surrounding tissue surface are critical for safer and more effective minimally invasive surgery. Traditional monocular approaches struggle with challenges such as depth ambiguity, tissue deformation, inconsistent camera motion, and limited visual texture.
 
 To address these issues, we propose a unified framework that combines scale-aware depth prediction with perceptual refinement across time. Our method introduces the MAPIS-Depth module, which integrates state-of-the-art depth models (Depth Pro and Depth Anything) with advanced optimisation to generate pseudo-metric depth estimates. These estimates are then temporally refined using pixel correspondences and perceptual similarity, making the system more robust to tissue motion and deformation.
