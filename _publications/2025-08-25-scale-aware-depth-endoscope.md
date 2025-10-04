@@ -17,7 +17,7 @@ bibtexurl:
 To address these issues, we propose a unified framework that combines scale-aware depth prediction with perceptual refinement across time. Our method introduces:
 - **MAPIS-Depth module**, which integrates state-of-the-art depth models (Depth Pro and Depth Anything) with advanced optimisation to generate pseudo-metric depth estimates. These estimates are then temporally refined using pixel correspondences and perceptual similarity, making the system more robust to tissue motion and deformation.
 - For accurate _3D_ registration, we further develop the **WEMA-RTDL module**, ensuring consistent camera tracking and alignment.
-- The reconstructed depth data are fused into detailed **_3D_ meshes of the surgical scene**, providing a reliable spatial representation.
+- The reconstructed depth data are fused into detailed **_3D_ meshes of the surgical scene** using **Truncated Signed Distance Function (TSDF)** and **Marching Cubes**, providing a reliable spatial representation.
 
 Evaluations on **benchmark datasets (HEVD and SCARED)** show that our framework outperforms existing methods, delivering more stable and precise reconstructions for monocular endoscopy.
 </div>
