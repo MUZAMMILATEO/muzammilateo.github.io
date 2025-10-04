@@ -17,7 +17,7 @@ bibtexurl:
 
 This work introduces a **novel hybrid framework** for **early fire detection**, leveraging both **static features** (colour, shape, texture) and **dynamic features** derived from **segmentation-based fractional-order optical flow**. The contributions include:  
 
-- A **mixed data preparation strategy**, where each training sample pairs a reference image with its corresponding sequence of **4D fire descriptors** (mean flow, weighted flow, sink/source matching, flow variance).  
+- A **mixed data preparation strategy**, where each training sample pairs a reference image with its corresponding sequence of **_4D_ fire descriptors** (mean flow, weighted flow, sink/source matching, flow variance).  
 - A **lightweight CNN-LSTM model** designed to fuse static and dynamic cues for robust classification and localisation of fire.  
 - Integration of **explainable AI (XAI)-guided segmentation**, providing interpretable fire regions to support trust in AI predictions.  
 
