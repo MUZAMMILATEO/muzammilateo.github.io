@@ -7,7 +7,7 @@ excerpt: 'This paper proposes a hybrid CNN-LSTM model combined with fractional-o
 date: 2025-06-30
 venue: 'Engineering Applications of Artificial Intelligence (under review)'
 slidesurl: 
-paperurl: 'http://dx.doi.org/10.2139/ssrn.5372325''
+paperurl: 'http://dx.doi.org/10.2139/ssrn.5372325'
 bibtexurl: 
 ---
 
