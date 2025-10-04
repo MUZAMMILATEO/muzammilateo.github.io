@@ -1,37 +1,32 @@
 ---
-title: "Ensemble Learning and Skip Connection Based CNN Framework for COVID-19 Identification Using CXR and CT Images"
+title: "Charbonnier-Marchaud Based Fractional Variational Model for Motion Estimation in Multispectral Vision System"
 collection: publications
 category: manuscripts
-permalink: /publication/covid19-tesnet-ijcvr/
-excerpt:  'This paper presents TES-Net, a CNN framework leveraging transfer learning, ensemble learning, and skip connections for COVID-19 detection using chest radiographs (CXR and CT).'
-date: 2024-03-01
-venue: 'International Journal of Computational Vision and Robotics (IJCVR), InderScience Publishers, 2024'
+permalink: /publication/charbonnier-marchaud-jpcs/
+excerpt:  'This paper introduces a nonlinear fractional-order variational model for optical flow estimation using the Charbonnier norm and Marchaud derivative, designed for robustness and discontinuity preservation in multispectral vision systems.'
+date: 2022-08-15
+venue: 'Journal of Physics: Conference Series, vol. 2327 (1), 012031'
 slidesurl: 
-paperurl: 'https://doi.org/10.1504/IJCVR.2024.10063592'
+paperurl: 'https://doi.org/10.1088/1742-6596/2327/1/012031'
 bibtexurl: 
 ---
 
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
-Computational Vision and Robotics (IJCVR), InderScience Publishers, 2024. doi:10.1504/IJCVR.2024.10063592.'
----
+**Motion estimation** in video sequences is central to computer vision applications, yet traditional integer-order variational models often struggle with robustness and discontinuity handling.  
 
-<div style="text-align:justify; text-justify:inter-word;" markdown="1">
+This paper introduces a **fractional-order variational model** for optical flow estimation, leveraging:  
 
-**COVID-19** severely affects the respiratory system, leading to **high fatality rates** if not detected early. Medical imaging, particularly **chest X-rays (CXR)** and **computed tomography (CT)**, provides a non-invasive and cost-effective way to identify COVID-19.  
+- The **Charbonnier norm** as a robust, non-quadratic penalty term, generalisable to the L1-norm.  
+- The **Marchaud fractional derivative**, which captures non-local information and effectively handles **discontinuous textures and edges**.  
+- **Numerical discretisation** using the **Grünwald–Letnikov scheme**, with the nonlinear formulation reduced to a solvable linear system.  
 
-This paper introduces **TES-Net**, a **novel convolutional neural network (CNN) framework** for COVID-19 detection that combines:  
-
-- **Transfer learning**, leveraging pre-trained networks to address limited dataset availability.  
-- **Ensemble learning**, integrating multiple models to achieve higher predictive accuracy.  
-- **Skip connections**, mitigating the problem of vanishing gradients and improving deep network performance.  
-
-The framework is rigorously validated on **CXR and CT datasets**, with performance reported using multiple evaluation metrics. Comparative studies demonstrate that **TES-Net outperforms existing CNNs and conventional machine learning classifiers**. An **ablation study** further highlights the contribution of each component, establishing the robustness and interpretability of the proposed architecture.  
+Experiments across diverse datasets demonstrate that the proposed model yields **dense, robust, and edge-preserving optical flow fields**, even under noise. Comparisons with recent approaches further validate its **accuracy and stability**.  
 
 </div>
 
 <div style="text-align:justify; text-justify:inter-word; margin-top:15px; font-size:0.9em; font-style:italic;">
-  <strong>Recommended citation:</strong> Muzammil Khan, Bhavana Singh, and Pushpendra Kumar. Ensemble Learning and Skip Connection Based CNN Framework for COVID-19 Identification Using CXR and CT Images. International Journal of Computational Vision and Robotics (IJCVR), InderScience Publishers, 2024. doi:10.1504/IJCVR.2024.10063592.
+  <strong>Recommended citation:</strong> Pushpendra Kumar and Muzammil Khan. Charbonnier-Marchaud Based Fractional Variational Model for Motion Estimation in Multispectral Vision System. Journal of Physics: Conference Series, vol. 2327 (1), 012031, 2022. doi:10.1088/1742-6596/2327/1/012031.
 </div>
 
 
