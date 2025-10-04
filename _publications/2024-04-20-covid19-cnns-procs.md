@@ -19,7 +19,7 @@ This study presents a **comparative analysis of convolutional neural network (CN
 
 - Four widely used CNN feature extractors are paired with **five distinct classifiers**, forming multiple hybrid architectures.  
 - Models are trained and tested separately on **CXR and CT datasets**, with performance evaluated using diverse metrics.  
-- **Inception V3 with a neural network classifier** achieves the highest classification accuracy \\((91.18%)\\) on CXR images.  
+- **Inception V3 with a neural network classifier** achieves the highest classification accuracy \\((91.18\%)\\) on CXR images.  
 
 The work also includes a **comparative study with existing frameworks**, demonstrating where transfer learning models provide significant advantages for **automated, early COVID-19 diagnosis**.  
 
