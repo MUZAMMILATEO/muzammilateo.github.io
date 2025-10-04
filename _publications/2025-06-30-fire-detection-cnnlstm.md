@@ -1,5 +1,5 @@
 ---
-title: ""Leveraging Mixed Data CNN-LSTM with Fractional Order Optical Flow for Early Fire Detection and XAI-Guided Segmentation"
+title: "Leveraging Mixed Data CNN-LSTM with Fractional Order Optical Flow for Early Fire Detection and XAI-Guided Segmentation"
 collection: publications
 category: manuscripts
 permalink: /publication/fire-detection-cnnlstm/
