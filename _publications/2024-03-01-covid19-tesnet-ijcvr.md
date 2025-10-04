@@ -13,11 +13,6 @@ bibtexurl:
 
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
-Computational Vision and Robotics (IJCVR), InderScience Publishers, 2024. doi:10.1504/IJCVR.2024.10063592.'
----
-
-<div style="text-align:justify; text-justify:inter-word;" markdown="1">
-
 **COVID-19** severely affects the respiratory system, leading to **high fatality rates** if not detected early. Medical imaging, particularly **chest X-rays (CXR)** and **computed tomography (CT)**, provides a non-invasive and cost-effective way to identify COVID-19.  
 
 This paper introduces **TES-Net**, a **novel convolutional neural network (CNN) framework** for COVID-19 detection that combines:  
