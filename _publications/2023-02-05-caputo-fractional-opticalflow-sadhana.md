@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/caputo-fractional-opticalflow-sadhana/
 excerpt: 'This paper presents a nonlinear fractional-order variational model for optical flow estimation using the Caputo derivative, enabling dense and discontinuity-preserving motion estimation across diverse datasets.'
 date: 2023-02-05
-venue: 'Sādhanā, vol. 49(1), Article 9 (2023)'
+venue: 'Sādhanā, vol. 49(1), Article 9'
 slidesurl: 
 paperurl: 'https://doi.org/10.1007/s12046-023-02318-6'
 bibtexurl: 
