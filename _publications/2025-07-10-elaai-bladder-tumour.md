@@ -8,10 +8,9 @@ date: 2025-10-04
 venue: 'Nature Scientific Reports (minor revision submitted)'
 slidesurl: 
 paperurl: ''
-citation: 'Muzammil Khan, Antonius G. de Groot, Erik B. Cornel, Antoine G. van der Heijden, and Françoise J. Siepel. *Explainable and Likelihood-Aware AI Framework for MRI-Based Pixel-Level Bladder Tumour Prediction: Leveraging MFA-Net and SLIP-Net*. Nature Scientific Reports, 2025 (minor revision submitted).'
 ---
 
-<div style="text-align:justify; text-justify:inter-word;">
+<div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 **Bladder tumours (BTs)** pose significant clinical challenges due to their high recurrence rates and risk of progression to invasive malignancies, underscoring the need for **early and accurate detection**. **Magnetic resonance imaging (MRI)**, with its superior soft tissue contrast, is a promising modality for BT detection. To analyse MRI scans, artificial intelligence (AI) models are increasingly being adopted; however, they are often constrained by **limited annotated datasets**, challenges in **pixel-level tumour prediction**, and **insufficient transparency** in outputs.
 
@@ -23,6 +22,13 @@ This study introduces the **Explainable and Likelihood-Aware AI (ELAAI) framewor
 Extensive evaluations against state-of-the-art (SOTA) methods demonstrate ELAAI’s **superior segmentation accuracy**, **uncertainty-aware tumour prediction**, and **enhanced transparency**, contributing to **greater reliability and trust in AI-assisted clinical decision-making**.
 
 </div>
+
+<div style="text-align:justify; text-justify:inter-word; margin-top:15px; font-size:0.9em; font-style:italic;">
+  <strong>Recommended citation:</strong> Muzammil Khan, Antonius G. de Groot, Erik B. Cornel, Antoine G. van der Heijden, and Françoise J. Siepel.
+  Explainable and Likelihood-Aware AI Framework for MRI-Based Pixel-Level Bladder Tumour Prediction.  
+  Nature Scientific Reports, 2025 (minor revision submitted).
+</div>
+
 
 
 ---
