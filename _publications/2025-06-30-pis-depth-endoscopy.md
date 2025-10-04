@@ -19,7 +19,7 @@ To address these limitations, we propose a **temporally-constrained monocular ti
 The framework incorporates:  
 - **Depth Anything** for generating Spatial Depth Estimates (SDEs) from sequential monocular endoscopic images.  
 - A novel **Perceptual Image Similarity Depth (PIS-Depth) module**, which refines depth predictions using **Farneback optical flow** and **LPIPS maps**, mitigating artefacts from tissue deformation and motion.  
-- A **Rotation-Translation Dog-Leg (RTDL) module**, performing $\mathcal{SO}(3)$ optimisation followed by $\mathcal{SE}(3)$ refinement via a dog-leg optimisation strategy, ensuring precise camera-tissue spatial alignment.  
+- A **Rotation-Translation Dog-Leg (RTDL) module**, performing \\( \mathcal{SO}(3) \\) optimisation followed by \\(\mathcal{SE}(3)\\) refinement via a dog-leg optimisation strategy, ensuring precise camera-tissue spatial alignment.  
 - **Volumetric fusion** of refined depth and pose estimates using a Truncated Signed Distance Function (TSDF), followed by surface extraction via Marching Cubes to generate comprehensive **3D reconstructions**.  
 
 Extensive validation on **HEVD, SCARED, C3VD, and in-house datasets** shows that our framework significantly outperforms state-of-the-art methods in intraoperative reconstruction **accuracy** and **robustness**.
