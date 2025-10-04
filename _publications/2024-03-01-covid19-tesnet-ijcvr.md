@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/covid19-tesnet-ijcvr/
 excerpt:  'This paper presents TES-Net, a CNN framework leveraging transfer learning, ensemble learning, and skip connections for COVID-19 detection using chest radiographs (CXR and CT).'
 date: 2024-03-01
-venue: 'International Journal of Computational Vision and Robotics (IJCVR), InderScience Publishers, 2024'
+venue: 'International Journal of Computational Vision and Robotics, InderScience Publishers'
 slidesurl: 
 paperurl: 'https://doi.org/10.1504/IJCVR.2024.10063592'
 bibtexurl: 
