@@ -11,14 +11,15 @@ paperurl: 'https://doi.org/10.48550/arXiv.2508.11282'
 bibtexurl: 
 ---
 
-<div style="text-align:justify; text-justify:inter-word;">
-Accurate localisation of endoscopes and reconstruction of the surrounding tissue surface are critical for safer and more effective minimally invasive surgery. Traditional monocular approaches struggle with challenges such as depth ambiguity, tissue deformation, inconsistent camera motion, and limited visual texture.
+<div style="text-align:justify; text-justify:inter-word;" markdown="1">
+**Accurate localisation of endoscopes and reconstruction** of the surrounding tissue surface are critical for safer and more effective minimally invasive surgery. Traditional monocular approaches struggle with challenges such as depth ambiguity, tissue deformation, inconsistent camera motion, and limited visual texture.
 
-To address these issues, we propose a unified framework that combines scale-aware depth prediction with perceptual refinement across time. Our method introduces the MAPIS-Depth module, which integrates state-of-the-art depth models (Depth Pro and Depth Anything) with advanced optimisation to generate pseudo-metric depth estimates. These estimates are then temporally refined using pixel correspondences and perceptual similarity, making the system more robust to tissue motion and deformation.
+To address these issues, we propose a unified framework that combines scale-aware depth prediction with perceptual refinement across time. Our method introduces:
+- **MAPIS-Depth module**, which integrates state-of-the-art depth models (Depth Pro and Depth Anything) with advanced optimisation to generate pseudo-metric depth estimates. These estimates are then temporally refined using pixel correspondences and perceptual similarity, making the system more robust to tissue motion and deformation.
+- For accurate _3D_ registration, we further develop the **WEMA-RTDL module**, ensuring consistent camera tracking and alignment.
+- The reconstructed depth data are fused into detailed **_3D_ meshes of the surgical scene**, providing a reliable spatial representation.
 
-For accurate 3D registration, we further develop the WEMA-RTDL module, ensuring consistent camera tracking and alignment. The reconstructed depth data are fused into detailed 3D meshes of the surgical scene, providing a reliable spatial representation.
-
-Evaluations on benchmark datasets (HEVD and SCARED) show that our framework outperforms existing methods, delivering more stable and precise reconstructions for monocular endoscopy.
+Evaluations on **benchmark datasets (HEVD and SCARED)** show that our framework outperforms existing methods, delivering more stable and precise reconstructions for monocular endoscopy.
 </div>
 
 <div style="text-align:justify; text-justify:inter-word; margin-top:15px; font-size:0.9em; font-style:italic;">
