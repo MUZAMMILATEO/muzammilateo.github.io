@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/nfov-opticalflow-optik/
 excerpt: 'This paper presents a nonlinear fractional-order variational model for optical flow estimation, combining Charbonnier-based robustness with Marchaud fractional derivatives for discontinuity preservation.'
 date: 2022-05-10
-venue: 'Optik, vol. 261, 169136 (2022)'
+venue: 'Optik, vol. 261, 169136'
 slidesurl: 
 paperurl: 'https://doi.org/10.1016/j.ijleo.2022.169136'
 bibtexurl: 
