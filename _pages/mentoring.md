@@ -5,6 +5,7 @@ permalink: /mentoring/
 author_profile: true
 sidebar:
   nav: teaching_nav
+  position: right
 ---
 
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
