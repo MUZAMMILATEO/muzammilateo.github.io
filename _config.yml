@@ -24,7 +24,7 @@ repository               : "MUZAMMILATEO/muzammilateo.github.io"
 author:
   # Biographic information
   avatar           : "khanm2019_.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Muzammil Khan"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Computer Vision and AI for Medical Imaging"
   location         : "Enschede, The Netherlands"
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1914-6520"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # not applicable
   researchgate     : # URL
   scopus           : # URL
 
