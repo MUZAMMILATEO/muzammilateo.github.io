@@ -3,6 +3,8 @@ layout: archive
 title: "Mentoring"
 permalink: /mentoring/
 author_profile: true
+sidebar:
+  nav: teaching_nav
 ---
 
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
