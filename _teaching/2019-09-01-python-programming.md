@@ -21,4 +21,13 @@ This graduate-level course provided students with a **comprehensive introduction
 
 As a teaching facilitator, I also guided students on **writing reproducible research code**, best practices in debugging, and applying Python in **machine learning and image processing** projects.
 
+---
+
+**Recommended Reading**
+1. M. Lutz, *Learning Python*, 5th ed., O’Reilly Media, 2013.  
+2. W. McKinney, *Python for Data Analysis*, 3rd ed., O’Reilly Media, 2022.  
+3. J. VanderPlas, *Python Data Science Handbook*, O’Reilly Media, 2016.  
+4. S. Raschka and V. Mirjalili, *Python Machine Learning*, 4th ed., Packt Publishing, 2022.  
+5. F. Chollet, *Deep Learning with Python*, 2nd ed., Manning Publications, 2021.
+
 </div>
