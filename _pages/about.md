@@ -10,8 +10,6 @@ author_profile: true
 I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
 My work focuses on developing intelligent and interpretable algorithms for **tumour diagnosis**, **3D reconstruction**, and **image-guided surgery** using data from **MRI**, **CT**, **X-ray**, **histopathology**, and **endoscopy**. I completed my **PhD in Computer Vision and Machine Learning**.
 
-I have been involved in several **European research projects** aimed at building **trustworthy and explainable AI systems** for healthcare.
-
 My broader research interests include:
 - Medical image analysis and _3D_ reconstruction  
 - Explainable and uncertainty-aware AI  
@@ -33,5 +31,11 @@ I have collaborated with clinical and research partners across The Netherlands a
 - **European research consortia under Horizon Europe and NWO programmes**
 
 These collaborations have focused on combining **AI**, **robotics**, and **medical imaging** to support **minimally invasive and image-guided surgery**.
+
+### 📬 Contact Me
+- ✉️ **Personal Email:** [khanm2004@gmail.com](mailto:khanm2004@gmail.com)  
+- 📧 **UT Email:** [m.khan@utwente.nl](mailto:m.khan@utwente.nl)  
+- 📍 **Location:** Enschede, The Netherlands
+
 
 </div>
