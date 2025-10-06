@@ -34,3 +34,14 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+
+# ----------------------------
+# Sidebar navigation for Teaching pages
+# ----------------------------
+
+teaching_nav:
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Mentoring"
+    url: /mentoring/
