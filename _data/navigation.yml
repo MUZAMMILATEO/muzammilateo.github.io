@@ -16,6 +16,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    children:
+      - title: "Mentoring"
+        url: /mentoring/
     
   - title: "Portfolio"
     url: /portfolio/
