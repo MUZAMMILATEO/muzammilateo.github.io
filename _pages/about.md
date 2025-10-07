@@ -38,23 +38,6 @@ author_profile: true
     }
   }
 
-   /* Reduce bottom spacing on the About page */
-  .about-box {
-    margin-bottom: 0 !important;
-    padding-bottom: 25px !important;
-  }
-
-  /* Remove bottom margin added by the theme’s content wrapper */
-  .page__content {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-  }
-
-  /* Optional: tighten footer spacing */
-  footer.page__footer {
-    margin-top: 100px !important;
-  }
-
 </style>
 
 <!-- Light/dark adaptive container -->
