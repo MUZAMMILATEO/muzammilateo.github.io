@@ -32,6 +32,7 @@ I have collaborated with clinical and research partners across The Netherlands a
 
 These collaborations have focused on combining **AI**, **robotics**, and **medical imaging** to support **minimally invasive and image-guided surgery**.
 
+---
 <div style="font-size:0.9em; font-style:italic; border-top:1px solid #ccc; padding-top:10px; margin-top:20px; text-align:justify; text-justify:inter-word;">
 
 ### 📬 Contact Me
