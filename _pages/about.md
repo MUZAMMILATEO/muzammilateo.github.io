@@ -5,11 +5,21 @@ permalink: /
 author_profile: true
 ---
 
-
-<!-- Parallax background wrapper -->
-<div class="about-hero">
+<!-- Subtle gray background container -->
+<div style="
+  background-color: rgba(245, 245, 245, 0.95);
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 35px 45px;
+  margin: 40px auto;
+  max-width: 950px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.65;
+">
   
-  <div style="text-align:justify; text-justify:inter-word;" markdown="1">
+<div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
 My work focuses on developing intelligent and interpretable algorithms for **tumour diagnosis**, **3D reconstruction**, and **image-guided surgery** using data from **MRI**, **CT**, **X-ray**, **histopathology**, and **endoscopy**. I completed my **PhD in Computer Vision and Machine Learning**.
