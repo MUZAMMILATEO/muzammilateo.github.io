@@ -1,8 +1,9 @@
 ---
-title: 'Making AI Explainable for MRI-Based Bladder Tumour Prediction'
+title: 'Making AI Explain Its Confidence: Inside the ELAAI Framework for Tumour Prediction'
 date: 2024-10-11
 permalink: blog/elaai-framework/
 excerpt: "How our Explainable and Likelihood-Aware AI (ELAAI) framework improves tumour prediction in MRI scans while ensuring transparency and clinical trust."
+mathjax: true
 tags:
   - Medical Imaging
   - Explainable AI
