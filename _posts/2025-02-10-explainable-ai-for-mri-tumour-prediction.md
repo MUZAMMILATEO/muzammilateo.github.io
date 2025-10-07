@@ -12,7 +12,7 @@ tags:
   - Uncertainty
 ---
 
-<div style="text-align:justify;" markdown="1">
+<div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 ### 🧠 Understanding the Challenge
 Bladder tumours are difficult to detect early because MRI scans contain vast, complex structures that vary widely among patients.  
