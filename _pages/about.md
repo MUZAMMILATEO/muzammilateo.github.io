@@ -5,8 +5,28 @@ permalink: /
 author_profile: true
 ---
 
-<!-- Subtle gray background container -->
-<div style="
+<!-- Inline dark-mode style -->
+<style>
+  @media (prefers-color-scheme: dark) {
+    .about-box {
+      background-color: rgba(20, 20, 20, 0.9) !important;
+      border-color: rgba(255, 255, 255, 0.15) !important;
+      color: #eee !important;
+      box-shadow: 0 3px 8px rgba(255,255,255,0.05) !important;
+    }
+    .about-box a {
+      color: #aad4ff !important;
+    }
+    .contact-box {
+      background-color: rgba(40, 40, 40, 0.9) !important;
+      border-color: rgba(255, 255, 255, 0.15) !important;
+      color: #ddd !important;
+    }
+  }
+</style>
+
+<!-- Light/dark adaptive container -->
+<div class="about-box" style="
   background-color: rgba(245, 245, 245, 0.95);
   border: 1px solid #ddd;
   border-radius: 12px;
@@ -18,6 +38,7 @@ author_profile: true
   text-justify: inter-word;
   line-height: 1.65;
 ">
+  
   
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
