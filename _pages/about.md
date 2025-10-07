@@ -5,24 +5,35 @@ permalink: /
 author_profile: true
 ---
 
-<!-- Parallax background wrapper -->
-<div style="
-  background-image: url('/images/index_bg.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 60px 0;
-">
+<!-- Edge-replicated background (blurred) + centered crisp image -->
+<div style="position:relative; overflow:hidden;">
 
-  <!-- Semi-transparent overlay for readability -->
+  <!-- Blurred cover to fill left/right -->
   <div style="
-    background-color: rgba(255, 255, 255, 0.95);
-    border-radius: 12px;
-    padding: 30px 40px;
-    margin: 0 auto;
-    max-width: 900px;
+    position:absolute; inset:0;
+    background-image:url('/images/index_bg.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    filter:blur(18px);
+    transform:scale(1.08);
+  "></div>
+
+  <!-- Foreground: centered, not cropped -->
+  <div style="
+    position:relative;
+    background: center/contain no-repeat url('/images/index_bg.jpg');
+    padding:60px 0;
+    min-height:420px;
   ">
+    <!-- Semi-transparent overlay for readability -->
+    <div style="
+      background-color: rgba(255,255,255,0.92);
+      border-radius: 12px;
+      padding: 30px 40px;
+      margin: 0 auto;
+      max-width: 900px;
+    ">
 
   <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
