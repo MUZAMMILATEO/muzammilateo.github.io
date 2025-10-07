@@ -9,7 +9,7 @@ author_profile: true
 <style>
   @media (prefers-color-scheme: dark) {
     .about-box {
-      background-color: rgba(20, 20, 20, 0.9) !important;
+      background-color: rgba(255, 255, 255, 0.9) !important;
       border-color: rgba(255, 255, 255, 0.15) !important;
       color: #eee !important;
       box-shadow: 0 3px 8px rgba(255,255,255,0.05) !important;
