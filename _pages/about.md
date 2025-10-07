@@ -68,9 +68,13 @@ These collaborations have focused on combining **AI**, **robotics**, and **medic
   <div style="
     pointer-events: none;
     position: absolute; inset: 0;
+    z-index: 0;                 /* NEW: behind the white card, above bg image */
     background:
+      /* top fade (under the navbar) */
       linear-gradient(180deg, rgba(255,255,255,1) 0px, rgba(255,255,255,0) 120px),
+      /* left edge feather */
       linear-gradient(90deg, rgba(255,255,255,1) 0px, rgba(255,255,255,0.6) 70px, rgba(255,255,255,0) 160px),
+      /* right edge feather */
       linear-gradient(-90deg, rgba(255,255,255,1) 0px, rgba(255,255,255,0.6) 70px, rgba(255,255,255,0) 160px);
   "></div>
 
