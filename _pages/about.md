@@ -46,7 +46,7 @@ These collaborations have focused on combining **AI**, **robotics**, and **medic
 " markdown="1">
   
 ### 📬 Contact Me
-- ✉️ **Personal Email:** [khanm2004@gmail.com](mailto:khanm2004@gmail.com)  
+- ✉️ **Personal Email:** [an.ar54040@gmail.com](mailto:khanm2004@gmail.com)  
 - 📧 **UT Email:** [m.khan@utwente.nl](mailto:m.khan@utwente.nl)  
 - 📍 **Location:** Enschede, The Netherlands
 </div>
