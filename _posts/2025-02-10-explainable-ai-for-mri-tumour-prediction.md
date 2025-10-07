@@ -49,7 +49,7 @@ ELAAI achieved a **Dice score of 0.91** on bladder segmentation and outperformed
 It was also more robust to noise and low-contrast MRI scans, demonstrating strong generalisation across different patient anatomies.
 
 ![Results comparison](/images/blogs/elaai_results.png)
-*Figure: MFA-Net vs. other segmentation networks on bladder MRI scans.*
+*Figure: ELAAI vs. other likelihood prediction frameworks on bladder MRI scans.*
 
 ### 🩺 Why It Matters
 The framework enhances **clinical trust** by making predictions explainable and by highlighting *how uncertain* the model is.  
