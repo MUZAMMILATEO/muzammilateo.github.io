@@ -107,11 +107,11 @@ These collaborations have focused on combining **AI**, **robotics**, and **medic
   border:1px solid #ddd;
   border-radius:10px;
   padding:15px 20px;
-  margin-top:25px;
+  margin-top:60px; /* ⬅️ increased from 25px to 60px for more gap */
   font-size:0.9em;
   font-style:italic;
   box-shadow:0 2px 5px rgba(0,0,0,0.05);
-" markdown="1"> 
+" markdown="1">
   
 ### 📬 Contact Me
 - ✉️ **Personal Email:** [khanm2004@gmail.com](mailto:khanm2004@gmail.com)  
