@@ -7,11 +7,10 @@ author_profile: true
 
 <!-- Parallax background wrapper -->
 <div style="
-  /* soft white overlay + image */
-  background-image: linear-gradient(rgba(255,255,255,0.86), rgba(255,255,255,0.86)), url('/images/index_bg.jpg');
+  background-image: url('/images/background.jpg');
   background-attachment: fixed;
-  background-size: cover;          /* fill width, allow small top/bottom crop */
-  background-position: center 20%; /* tweak this (e.g., center 10%) to keep the focal area */
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   padding: 60px 0;
 ">
@@ -25,8 +24,7 @@ author_profile: true
     max-width: 900px;
   ">
 
-
-<div style="text-align:justify; text-justify:inter-word;" markdown="1">
+  <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
 My work focuses on developing intelligent and interpretable algorithms for **tumour diagnosis**, **3D reconstruction**, and **image-guided surgery** using data from **MRI**, **CT**, **X-ray**, **histopathology**, and **endoscopy**. I completed my **PhD in Computer Vision and Machine Learning**.
