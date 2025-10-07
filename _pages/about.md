@@ -52,7 +52,7 @@ author_profile: true
 
   /* Optional: tighten footer spacing */
   footer.page__footer {
-    margin-top: 15px !important;
+    margin-top: 5px !important;
   }
 
 </style>
