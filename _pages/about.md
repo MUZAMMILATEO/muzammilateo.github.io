@@ -4,22 +4,36 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-
-<!-- Inline dark-mode style -->
+<!-- Theme-aware overrides for About/Contact boxes -->
 <style>
+  /* Dark mode via site toggle (data-theme) */
+  html[data-theme="dark"] .about-box {
+    background-color: rgba(20,20,20,0.9) !important;
+    border-color: rgba(255,255,255,0.15) !important;
+    color: #eee !important;
+    box-shadow: 0 3px 8px rgba(255,255,255,0.05) !important;
+  }
+  html[data-theme="dark"] .about-box a { color: #aad4ff !important; }
+
+  html[data-theme="dark"] .contact-box {
+    background-color: rgba(40,40,40,0.9) !important;
+    border-color: rgba(255,255,255,0.15) !important;
+    color: #ddd !important;
+  }
+
+  /* Also support system dark mode if toggle not used */
   @media (prefers-color-scheme: dark) {
     .about-box {
-      background-color: rgba(255, 255, 255, 0.9) !important;
-      border-color: rgba(255, 255, 255, 0.15) !important;
+      background-color: rgba(20,20,20,0.9) !important;
+      border-color: rgba(255,255,255,0.15) !important;
       color: #eee !important;
       box-shadow: 0 3px 8px rgba(255,255,255,0.05) !important;
     }
-    .about-box a {
-      color: #aad4ff !important;
-    }
+    .about-box a { color: #aad4ff !important; }
+
     .contact-box {
-      background-color: rgba(40, 40, 40, 0.9) !important;
-      border-color: rgba(255, 255, 255, 0.15) !important;
+      background-color: rgba(40,40,40,0.9) !important;
+      border-color: rgba(255,255,255,0.15) !important;
       color: #ddd !important;
     }
   }
@@ -38,8 +52,7 @@ author_profile: true
   text-justify: inter-word;
   line-height: 1.65;
 ">
-  
-  
+
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
@@ -67,10 +80,22 @@ I have collaborated with clinical and research partners across The Netherlands a
 
 These collaborations have focused on combining **AI**, **robotics**, and **medical imaging** to support **minimally invasive and image-guided surgery**.
 
+
 </div>
 
 ---
-<div style="background-color:#f7f7f7; border:1px solid #ddd; border-radius:10px; padding:15px 20px; margin-top:25px; font-size:0.9em; font-style:italic; box-shadow:0 2px 5px rgba(0,0,0,0.05);" markdown="1">
+
+<div class="contact-box" style="
+  background-color:#f7f7f7;
+  border:1px solid #ddd;
+  border-radius:10px;
+  padding:15px 20px;
+  margin-top:25px;
+  font-size:0.9em;
+  font-style:italic;
+  box-shadow:0 2px 5px rgba(0,0,0,0.05);
+" markdown="1"> 
+  
 ### 📬 Contact Me
 - ✉️ **Personal Email:** [khanm2004@gmail.com](mailto:khanm2004@gmail.com)  
 - 📧 **UT Email:** [m.khan@utwente.nl](mailto:m.khan@utwente.nl)  
