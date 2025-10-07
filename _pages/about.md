@@ -18,7 +18,7 @@ author_profile: true
 
   <!-- Semi-transparent overlay for readability -->
   <div style="
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.95);
     border-radius: 12px;
     padding: 30px 40px;
     margin: 0 auto;
