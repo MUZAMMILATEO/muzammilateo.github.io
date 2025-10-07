@@ -42,7 +42,7 @@ $$
 U_{map} = \mathcal{N}\big( \text{var}(\theta) + \text{var}(M) \big)
 $$
 
-where \(\theta\) and \(M\) represent phase and magnitude variations of inter-slice deformations.  
+where $\theta$ and $M$ represent phase and magnitude variations of inter-slice deformations.  
 This allows pixel-level tumour likelihood estimation, effectively quantifying *where* and *how confidently* the model sees abnormalities.
 
 ### 🔬 Results in Brief
