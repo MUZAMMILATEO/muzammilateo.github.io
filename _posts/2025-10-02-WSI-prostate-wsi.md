@@ -21,6 +21,9 @@ To diagnose prostate cancer, pathologists rely on subtle differences in texture 
 
 Our recent project at the **University of Twente** focuses on this challenge: teaching AI to segment prostate tissue into four key categories, **background**, **stroma**, **benign glands**, and **tumour regions**, directly from *Hematoxylin and Eosin (H&E)* slides.
 
+![Validation examples](/images/blogs/WSI_results_overlay.png)
+*Figure: Model predictions overlaid on the corresponding WSIs to guide clinical decision-making.*
+
 ---
 
 ### ⚙️ The Idea: FCBFormer for Histopathology
@@ -88,9 +91,6 @@ Even partial automation can save pathologists significant time.
 By pre-highlighting suspicious gland regions, such models act as **assistive diagnostic tools**, not replacements.  
 The qualitative overlays are especially useful for **annotation bootstrapping**,  speeding up dataset expansion for future supervised learning.
 
-![Validation examples](/images/blogs/WSI_results_overlay.png)
-*Figure: Model predictions overlaid on the corresponding WSIs to guide clinical decision-making.*
-
 ---
 
 ### 🚀 What’s Next
@@ -105,7 +105,7 @@ We plan to extend the framework with:
 ### 💻 Explore the Code
 
 Implementation and training pipeline are available at:  
-👉 [github.com/MuzammilAteo/FCBFormer](https://github.com/MUZAMMILATEO/HighRes-Histopathology-Semantic-Segmentation)
+👉 [github.com/MuzammilAteo/HighRes-Histopathology-Semantic-Segmentation](https://github.com/MUZAMMILATEO/HighRes-Histopathology-Semantic-Segmentation)
 
 </div>
 
