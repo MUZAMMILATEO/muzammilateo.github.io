@@ -1,5 +1,5 @@
 ---
-title: 'Making AI Explain Its Confidence: Inside the ELAAI Framework for Tumour Prediction'
+title: 'Making AI Explain Its Confidence: Inside the ELAAI Framework for MRI-Based Tumour Prediction'
 date: 2024-10-11
 permalink: blog/elaai-framework/
 excerpt: "How our Explainable and Likelihood-Aware AI (ELAAI) framework improves tumour prediction in MRI scans while ensuring transparency and clinical trust."
@@ -65,3 +65,16 @@ The complete implementation is available at
 > “Explainable and Likelihood-Aware AI Framework for MRI-Based Pixel-Level Bladder Tumour Prediction,” 2024.
 
 </div>
+
+<!-- Load MathJax for rendering inline and display math -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script async id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
