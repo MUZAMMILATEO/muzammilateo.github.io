@@ -25,11 +25,8 @@ Our recent project at the **University of Twente** focuses on this challenge: te
 
 ### ⚙️ The Idea: FCBFormer for Histopathology
 
-We built on **FCBFormer**, a transformer-based encoder–decoder architecture originally designed for polyp segmentation.  
+We built on [**FCBFormer**](https://github.com/ESandML/FCBFormer), a transformer-based encoder–decoder architecture originally designed for polyp segmentation.  
 The model fuses convolutional and transformer representations to capture both **local cellular structures** and **global tissue organisation**.
-
-![Architecture overview](/images/blogs/fcbformer_prostate_overview.png)
-*Figure: Overview of the FCBFormer architecture used for prostate tissue segmentation.*
 
 Key design components include:
 - A **PVTv2-B3** backbone for multi-scale contextual learning.  
@@ -79,7 +76,7 @@ The model achieved a **mean IoU of 0.71** across validation WSIs:
 
 Despite modest tumour performance (limited data and imbalance), the model produced coherent segmentations with strong stroma delineation.
 
-![Validation examples](/images/blogs/fcbformer_prostate_results.png)
+![Validation examples](/images/blogs/WSI_results.png)
 *Figure: Model predictions vs. ground truth for prostate tissue segmentation.*
 
 ---
@@ -90,6 +87,9 @@ Despite modest tumour performance (limited data and imbalance), the model produc
 Even partial automation can save pathologists significant time.  
 By pre-highlighting suspicious gland regions, such models act as **assistive diagnostic tools**, not replacements.  
 The qualitative overlays are especially useful for **annotation bootstrapping**,  speeding up dataset expansion for future supervised learning.
+
+![Validation examples](/images/blogs/WSI_results_overlay.png)
+*Figure: Model predictions overlaid on the corresponding WSIs to guide clinical decision-making.*
 
 ---
 
