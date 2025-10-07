@@ -37,6 +37,24 @@ author_profile: true
       color: #ddd !important;
     }
   }
+
+   /* Reduce bottom spacing on the About page */
+  .about-box {
+    margin-bottom: 0 !important;
+    padding-bottom: 25px !important;
+  }
+
+  /* Remove bottom margin added by the theme’s content wrapper */
+  .page__content {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* Optional: tighten footer spacing */
+  footer.page__footer {
+    margin-top: 15px !important;
+  }
+
 </style>
 
 <!-- Light/dark adaptive container -->
@@ -80,10 +98,9 @@ I have collaborated with clinical and research partners across The Netherlands a
 
 These collaborations have focused on combining **AI**, **robotics**, and **medical imaging** to support **minimally invasive and image-guided surgery**.
 
+---
 
 </div>
-
----
 
 <div class="contact-box" style="
   background-color:#f7f7f7;
