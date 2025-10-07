@@ -4,72 +4,6 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-<!-- Theme-aware overrides for About/Contact boxes -->
-<style>
-  /* Dark mode via site toggle (data-theme) */
-  html[data-theme="dark"] .about-box {
-    background-color: rgba(20,20,20,0.9) !important;
-    border-color: rgba(255,255,255,0.15) !important;
-    color: #eee !important;
-    box-shadow: 0 3px 8px rgba(255,255,255,0.05) !important;
-  }
-  html[data-theme="dark"] .about-box a { color: #aad4ff !important; }
-
-  html[data-theme="dark"] .contact-box {
-    background-color: rgba(40,40,40,0.9) !important;
-    border-color: rgba(255,255,255,0.15) !important;
-    color: #ddd !important;
-  }
-
-  /* Also support system dark mode if toggle not used */
-  @media (prefers-color-scheme: dark) {
-    .about-box {
-      background-color: rgba(20,20,20,0.9) !important;
-      border-color: rgba(255,255,255,0.15) !important;
-      color: #eee !important;
-      box-shadow: 0 3px 8px rgba(255,255,255,0.05) !important;
-    }
-    .about-box a { color: #aad4ff !important; }
-
-    .contact-box {
-      background-color: rgba(40,40,40,0.9) !important;
-      border-color: rgba(255,255,255,0.15) !important;
-      color: #ddd !important;
-    }
-  }
-
-     /* Reduce bottom spacing on the About page */
-  .about-box {
-    margin-bottom: 0 !important;
-    padding-bottom: 15px !important;
-  }
-
-  /* Remove bottom margin added by the theme’s content wrapper */
-  .page__content {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-  }
-
-  /* Optional: tighten footer spacing */
-  footer.page__footer {
-    margin-top: 5px !important;
-  }
-  
-</style>
-
-<!-- Light/dark adaptive container -->
-<div class="about-box" style="
-  background-color: rgba(245, 245, 245, 0.95);
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 35px 45px;
-  margin: 40px auto;
-  max-width: 950px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
-  text-align: justify;
-  text-justify: inter-word;
-  line-height: 1.65;
-">
 
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
@@ -99,8 +33,6 @@ I have collaborated with clinical and research partners across The Netherlands a
 These collaborations have focused on combining **AI**, **robotics**, and **medical imaging** to support **minimally invasive and image-guided surgery**.
 
 ---
-
-</div>
 
 <div class="contact-box" style="
   background-color:#f7f7f7;
