@@ -7,25 +7,8 @@ author_profile: true
 
 
 <!-- Parallax background wrapper -->
-<div style="
-  background-image: url('/images/index_bg.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 60px 0;
-">
-
-  <!-- Semi-transparent overlay for readability -->
-  <div style="
-    background-color: rgba(255, 255, 255, 0.95);
-    border-radius: 12px;
-    padding: 30px 40px;
-    margin: 0 auto;
-    max-width: 900px;
-  ">
-
-
+<div class="about-hero">
+  
   <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
