@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Parallax background wrapper -->
 <div style="
-  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/index_bg.jpg');
+  background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url('/images/index_bg.jpg');
   background-attachment: fixed;
   background-size: contain;
   background-color: #f9f9f9;
