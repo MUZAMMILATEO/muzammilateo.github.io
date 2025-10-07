@@ -64,4 +64,14 @@ These collaborations have focused on combining **AI**, **robotics**, and **medic
 
 </div>
 
+  <!-- Feather overlay (soft fade edges) -->
+  <div style="
+    pointer-events: none;
+    position: absolute; inset: 0;
+    background:
+      linear-gradient(180deg, rgba(255,255,255,1) 0px, rgba(255,255,255,0) 120px),
+      linear-gradient(90deg, rgba(255,255,255,1) 0px, rgba(255,255,255,0.6) 70px, rgba(255,255,255,0) 160px),
+      linear-gradient(-90deg, rgba(255,255,255,1) 0px, rgba(255,255,255,0.6) 70px, rgba(255,255,255,0) 160px);
+  "></div>
+
 </div>
