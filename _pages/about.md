@@ -9,7 +9,8 @@ author_profile: true
 <div style="
   background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/index_bg.jpg');
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
+  background-color: #f9f9f9;
   background-position: center;
   background-repeat: no-repeat;
   padding: 60px 0;
