@@ -33,7 +33,7 @@ I have collaborated with clinical and research partners across The Netherlands a
 These collaborations have focused on combining **AI**, **robotics**, and **medical imaging** to support **minimally invasive and image-guided surgery**.
 
 ---
-<div style="font-size:0.9em; font-style:italic; border-top:1px solid #ccc; padding-top:10px; margin-top:20px; text-align:justify; text-justify:inter-word;">
+<div style="background-color:#f7f7f7; border:1px solid #ddd; border-radius:10px; padding:15px 20px; margin-top:25px; font-size:0.9em; font-style:italic; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
 
 ### 📬 Contact Me
 - ✉️ **Personal Email:** [khanm2004@gmail.com](mailto:khanm2004@gmail.com)  
