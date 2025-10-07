@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Parallax background wrapper -->
 <div style="
-  background-image: url('/images/background.jpg');
+  background-image: url('/images/index_bg.jpg');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
