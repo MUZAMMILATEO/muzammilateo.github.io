@@ -7,11 +7,11 @@ author_profile: true
 
 <!-- Parallax background wrapper -->
 <div style="
-  background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url('/images/index_bg.jpg');
+  /* soft white overlay + image */
+  background-image: linear-gradient(rgba(255,255,255,0.86), rgba(255,255,255,0.86)), url('/images/index_bg.jpg');
   background-attachment: fixed;
-  background-size: contain;
-  background-color: #f9f9f9;
-  background-position: center;
+  background-size: cover;          /* fill width, allow small top/bottom crop */
+  background-position: center 20%; /* tweak this (e.g., center 10%) to keep the focal area */
   background-repeat: no-repeat;
   padding: 60px 0;
 ">
