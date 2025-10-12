@@ -8,7 +8,7 @@ author_profile: true
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
 I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
-My work focuses on developing intelligent and interpretable algorithms for **tumour diagnosis**, **3D reconstruction**, and **image-guided surgery** using data from **MRI**, **CT**, **X-ray**, **histopathology**, and **endoscopy**. I completed my **PhD in Computer Vision and Machine Learning**.
+My work focuses on developing intelligent and interpretable algorithms for **tumour diagnosis**, **3D reconstruction**, and **image-guided surgery** using data from **MRI**, **CT**, **X-ray**, **histopathology**, **multi-omics** and **endoscopy**. I completed my **PhD in Computer Vision and Machine Learning**.
 
 My broader research interests include:
 - Medical image analysis and _3D_ reconstruction  
