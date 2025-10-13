@@ -26,7 +26,7 @@ Beyond research, I also enjoy **teaching and mentoring** students in **Python pr
 <figure style="margin:1.5rem 0; text-align:center;">
   <img
     src="{{ '/images/research_overview.png' | relative_url }}"
-    alt="Research overview summarising Transformers, CNN/LSTM, Explainable AI, and Longitudinal Deep Learning applications"
+    alt="Research overview in AI for healthcare"
     style="max-width:100%; height:auto; border-radius:8px;"
     loading="lazy" decoding="async"
   />
