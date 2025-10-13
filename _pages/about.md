@@ -21,7 +21,7 @@ I have presented my work at more than **ten international conferences** and acti
 
 Beyond research, I also enjoy **teaching and mentoring** students in **Python programming**, **image processing**, and **machine learning**, and have supervised multiple **Technical Medicine** projects in collaboration with the **Netherlands Cancer Institute** and **Princess Máxima Centre**.
 
-<h3 style="text-align:center; margin-top:2rem;">Research Overview</h3>
+<h3 style="text-align:center; margin-top:2rem;">Research Overview of AI in healthcare</h3>
 
 <figure style="margin:1.5rem 0; text-align:center;">
   <img
