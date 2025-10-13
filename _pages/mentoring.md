@@ -20,10 +20,10 @@ My mentoring emphasises **scientific independence**, **reproducible code practic
 
 | Student | Level | Period | Topic | Host Institution | Status |
 |----------|--------|---------|--------|------------------|---------|
-| **Carmen Kloppenberg** | MSc (TG) | 2025 - ongoing | *Development of spatial computing workflow for paediatric surgical navigation using mixed-reality integration at the PMC* | Princess Máxima Centre / University of Twente | Ongoing |
-| **Joris de Vries** | MSc (TG) | 2025 - ongoing | *Spatial computing for paediatric chest-wall tumour localisation: comparative study between HoloLens 2 and Apple Vision Pro* | Princess Máxima Centre / University of Twente | Ongoing |
-| **Rick Sijben** | MSc (TG) | 2024 - 2025 | *A standardised workflow for 3D lung models to support thoracic surgery planning using 3D Slicer* | Netherlands Cancer Institute / University of Twente | Completed |
-| **Daan ter Stal** | MSc (TG) | 2024 - 2025 | *Development of a robust pipeline for 3D segmentation and registration of pulmonary structures for image-guided thoracic surgery* | Princess Máxima Centre / University of Twente | Completed |
+| **#STU_04** | MSc (TG) | 2025 - ongoing | *Development of spatial computing workflow for paediatric surgical navigation using mixed-reality integration at the PMC* | Princess Máxima Centre / University of Twente | Ongoing |
+| **#STU_03** | MSc (TG) | 2025 - ongoing | *Spatial computing for paediatric chest-wall tumour localisation: comparative study between HoloLens 2 and Apple Vision Pro* | Princess Máxima Centre / University of Twente | Ongoing |
+| **#STU_02** | MSc (TG) | 2024 - 2025 | *A standardised workflow for 3D lung models to support thoracic surgery planning using 3D Slicer* | Netherlands Cancer Institute / University of Twente | Completed |
+| **#STU_01** | MSc (TG) | 2024 - 2025 | *Development of a robust pipeline for 3D segmentation and registration of pulmonary structures for image-guided thoracic surgery* | Princess Máxima Centre / University of Twente | Completed |
 
 ### Mentoring Scope
 - Guidance on **experimental design**, **deep-learning pipelines**, and **3D medical image reconstruction**.  
