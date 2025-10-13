@@ -19,6 +19,15 @@ My broader research interests include:
 I am proficient in **PyTorch**, **TensorFlow**, **Docker**, and **MLflow**, and experienced in building scalable AI pipelines for research and clinical use.  
 I have presented my work at more than **ten international conferences** and actively contribute to collaborative projects on **AI for early disease detection**.
 
+{% include figure
+  image_path="/images/research_overview.png"
+  alt="Research overview: Transformers, CNN/LSTM/ML, Explainable AI, and Longitudinal Deterministic Deep Learning with medical imaging examples"
+  caption="My research spans **transformers**, **CNN/LSTM & machine learning**, **explainable AI**, and **longitudinal deterministic deep learning** across MRI, CT, X-ray, histopathology, endoscopy, and multi-omics."
+  width="100%"
+  url="/images/research_overview.png"
+  loading="lazy"
+%}
+
 Beyond research, I also enjoy **teaching and mentoring** students in **Python programming**, **image processing**, and **machine learning**, and have supervised multiple **Technical Medicine** projects in collaboration with the **Netherlands Cancer Institute** and **Princess Máxima Centre**.
 
 ### Collaborations
