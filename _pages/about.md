@@ -19,16 +19,21 @@ My broader research interests include:
 I am proficient in **PyTorch**, **TensorFlow**, **Docker**, and **MLflow**, and experienced in building scalable AI pipelines for research and clinical use.  
 I have presented my work at more than **ten international conferences** and actively contribute to collaborative projects on **AI for early disease detection**.
 
-{% include figure
-  image_path="/images/research_overview.png"
-  alt="Research overview: Transformers, CNN/LSTM/ML, Explainable AI, and Longitudinal Deterministic Deep Learning with medical imaging examples"
-  caption="My research spans **transformers**, **CNN/LSTM & machine learning**, **explainable AI**, and **longitudinal deterministic deep learning** across MRI, CT, X-ray, histopathology, endoscopy, and multi-omics."
-  width="100%"
-  url="/images/research_overview.png"
-  loading="lazy"
-%}
-
 Beyond research, I also enjoy **teaching and mentoring** students in **Python programming**, **image processing**, and **machine learning**, and have supervised multiple **Technical Medicine** projects in collaboration with the **Netherlands Cancer Institute** and **Princess Máxima Centre**.
+
+<figure style="margin:2rem 0; text-align:center;">
+  <img
+    src="{{ '/images/research_overview.png' | relative_url }}"
+    alt="Research overview: Transformers, CNN/LSTM/ML, Explainable AI, and Longitudinal Deterministic Deep Learning with medical imaging examples"
+    style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.12); border:1px solid #e9e9e9;"
+    loading="lazy" decoding="async"
+  />
+  <figcaption style="margin-top:.6rem; color:#555; font-size:.95rem;">
+    My research spans <strong>transformers</strong>, <strong>CNN/LSTM &amp; machine learning</strong>,
+    <strong>explainable AI</strong>, and <strong>longitudinal deterministic deep learning</strong> across MRI, CT,
+    X-ray, histopathology, endoscopy, and multi-omics.
+  </figcaption>
+</figure>
 
 ### Collaborations
 I have collaborated with clinical and research partners across The Netherlands and Europe, including:
