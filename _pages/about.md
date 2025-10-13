@@ -21,18 +21,15 @@ I have presented my work at more than **ten international conferences** and acti
 
 Beyond research, I also enjoy **teaching and mentoring** students in **Python programming**, **image processing**, and **machine learning**, and have supervised multiple **Technical Medicine** projects in collaboration with the **Netherlands Cancer Institute** and **Princess Máxima Centre**.
 
-<figure style="margin:2rem 0; text-align:center;">
+<h3 style="text-align:center; margin-top:2rem;">Research Overview</h3>
+
+<figure style="margin:1.5rem 0; text-align:center;">
   <img
     src="{{ '/images/research_overview.png' | relative_url }}"
-    alt="Research overview: Transformers, CNN/LSTM/ML, Explainable AI, and Longitudinal Deterministic Deep Learning with medical imaging examples"
-    style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.12); border:1px solid #e9e9e9;"
+    alt="Research overview summarising Transformers, CNN/LSTM, Explainable AI, and Longitudinal Deep Learning applications"
+    style="max-width:100%; height:auto; border-radius:8px;"
     loading="lazy" decoding="async"
   />
-  <figcaption style="margin-top:.6rem; color:#555; font-size:.95rem;">
-    My research spans <strong>transformers</strong>, <strong>CNN/LSTM &amp; machine learning</strong>,
-    <strong>explainable AI</strong>, and <strong>longitudinal deterministic deep learning</strong> across MRI, CT,
-    X-ray, histopathology, endoscopy, and multi-omics.
-  </figcaption>
 </figure>
 
 ### Collaborations
