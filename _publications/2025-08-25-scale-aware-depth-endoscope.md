@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/scale-aware-depth-endoscope/
 excerpt: 'This paper introduces a framework that unifies scale-aware depth prediction with perceptual similarity priors for monocular endoscope pose estimation and tissue reconstruction.'
-date: 2025-08-25
-venue: 'IEEE Access (under review)'
+date: 2026-02-26
+venue: 'IEEE Access'
 slidesurl: 
-paperurl: 'https://doi.org/10.48550/arXiv.2508.11282'
+paperurl: '10.1109/ACCESS.2026.3658399'
 bibtexurl: 
 ---
 
@@ -25,7 +25,7 @@ Evaluations on **benchmark datasets (HEVD and SCARED)** show that our framework 
 <div style="text-align:justify; text-justify:inter-word; margin-top:15px; font-size:0.9em; font-style:italic;">
   <strong>Recommended citation:</strong> Muzammil Khan, Enzo Kerkhof, Matteo Fusaglia, Koert Kuhlmann, Theo Ruers, and Françoise J. Siepel.  
   Unifying Scale-Aware Depth Prediction and Perceptual Priors for Monocular Endoscope Pose Estimation and Tissue Reconstruction.  
-  IEEE Access (under review), 2025.
+  IEEE Access, 2026.
 </div>
 
 
