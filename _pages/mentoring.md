@@ -20,7 +20,8 @@ My mentoring emphasises **scientific independence**, **reproducible code practic
 
 | Student | Level | Period | Topic | Host Institution | Status |
 |----------|--------|---------|--------|------------------|---------|
-| **#STU_05** | MSc (TG) | 2025 - ongoing | *Title yet to be decided* | Princess Máxima Centre / University of Twente | Ongoing |
+| **#STU_06** | MSc (TG) | 2026 - Ongoing | *Title is to be decided* | Princess Máxima Centre / University of Twente | Ongoing |
+| **#STU_05** | MSc (TG) | 2025 - 2026 | *Development of automatic segmentation model to get 3D bone models out of MRI scans for pediatric neuroblastoma patients* | Princess Máxima Centre / University of Twente | Ongoing |
 | **#STU_04** | MSc (TG) | 2025 - 2026 | *Development of spatial computing workflow for paediatric surgical navigation using mixed-reality integration at the PMC* | Princess Máxima Centre / University of Twente | Completed |
 | **#STU_03** | MSc (TG) | 2025 - 2026 | *Spatial computing for paediatric chest-wall tumour localisation: comparative study between HoloLens 2 and Apple Vision Pro* | Princess Máxima Centre / University of Twente | Completed |
 | **#STU_02** | MSc (TG) | 2024 - 2025 | *A standardised workflow for 3D lung models to support thoracic surgery planning using 3D Slicer* | Netherlands Cancer Institute / University of Twente | Completed |
