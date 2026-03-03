@@ -7,7 +7,7 @@ excerpt: 'This paper introduces a framework that unifies scale-aware depth predi
 date: 2026-02-26
 venue: 'IEEE Access'
 slidesurl: 
-paperurl: '10.1109/ACCESS.2026.3658399'
+paperurl: 'https://doi.org/10.1109/ACCESS.2026.3658399'
 bibtexurl: 
 ---
 
