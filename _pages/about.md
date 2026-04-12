@@ -7,19 +7,20 @@ author_profile: true
 
 <div style="text-align:justify; text-justify:inter-word;" markdown="1">
 
-I am a **Postdoctoral Researcher** at the **University of Twente**, The Netherlands, specialising in **AI-driven medical imaging** and **computer vision**.  
-My work focuses on developing intelligent and interpretable algorithms for **tumour grading and diagnosis**, **3D reconstruction**, and **image-guided surgery** using data from **MRI**, **CT**, **X-ray**, **histopathology**, **multi-omics** and **endoscopy**. I completed my **PhD in Computer Vision and Machine Learning**.
+I am a **Postdoctoral Researcher** at the **Erasmus Medical Center Rotterdam**, The Netherlands, specialising in **AI-driven medical imaging** and **Multi-modal data analysis**.  
+
+My work focuses on developing intelligent and interpretable AI systems for **tumour phenotyping**, **pathology-aware imaging analysis**, **surgical scene understanding**, **3D reconstruction**, **image-guided intervention**, and **morphology-to-omics modelling** across radiology, histopathology, live-cell microscopy, and endoscopy.
 
 My broader research interests include:
-- Medical image analysis and _3D_ reconstruction  
-- Explainable and uncertainty-aware AI  
-- Multi-modal data fusion and instance learning  
-- Visual SLAM and scene understanding for surgical navigation  
+- Medical image analysis, computational pathology, and 3D reconstruction
+- Explainable, uncertainty-aware, and trustworthy AI
+- Imaging-to-omics learning and multimodal representation modelling
+- Visual SLAM, scene understanding, and surgical navigation
+- AI for live-cell imaging, cell tracking, and phenotype discovery
 
-I am proficient in **PyTorch**, **TensorFlow**, **Docker**, and **MLflow**, and experienced in building scalable AI pipelines for research and clinical use.  
-I have presented my work at more than **ten international conferences** and actively contribute to collaborative projects on **AI for early disease detection**.
+I am proficient in **PyTorch**, **TensorFlow**, **Docker**, and **MLflow**, and experienced in building scalable AI pipelines for research and clinical use. I have authored publications in leading journals and conferences in medical imaging, computer vision, and AI, and have presented my work at numerous international scientific meetings.
 
-Beyond research, I also enjoy **teaching and mentoring** students in **Python programming**, **image processing**, and **machine learning**, and have supervised multiple **Technical Medicine** projects in collaboration with the **Netherlands Cancer Institute** and **Princess Máxima Centre**.
+Beyond research, I also enjoy **teaching and mentoring** students in **Python programming**, **image processing**, and **machine learning**, and have supervised multiple **Technical Medicine** projects in collaboration with the **Netherlands Cancer Institute** and **Princess Máxima Center**.
 
 <h3 style="text-align:center; margin-top:2rem;">Research Overview of AI in healthcare</h3>
 
@@ -34,9 +35,10 @@ Beyond research, I also enjoy **teaching and mentoring** students in **Python pr
 
 ### Collaborations
 I have collaborated with clinical and research partners across The Netherlands and Europe, including:
+- **Erasmus Medical Center Rotterdam**
 - **Netherlands Cancer Institute – Antoni van Leeuwenhoek (NKI-AVL)**  
-- **Princess Máxima Centre for Paediatric Oncology**  
-- **Radboud University Medical Centre (Radboud UMC)**  
+- **Princess Máxima Center for Paediatric Oncology**  
+- **Radboud University Medical Center (Radboud UMC)**  
 - **Andros Clinics**  
 - **University of Twente - Robotics and Mechatronics (RaM) Group**  
 - **European research consortia under Horizon Europe and NWO programmes**
@@ -58,8 +60,8 @@ These collaborations have focused on combining **AI**, **robotics**, and **medic
   
 ### 📬 Contact Me
 - ✉️ **Personal Email:** [an.ar54040@gmail.com](mailto:khanm2004@gmail.com)  
-- 📧 **UT Email:** [m.khan@utwente.nl](mailto:m.khan@utwente.nl)  
-- 📍 **Location:** Enschede, The Netherlands
+- 📧 **UT Email:** [m.khan.2@erasmusmc.nl](mailto:m.khan.2@erasmusmc.nl)  
+- 📍 **Location:** Rotterdam, The Netherlands
 </div>
 
 </div>
