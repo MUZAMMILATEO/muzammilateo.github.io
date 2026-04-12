@@ -43,10 +43,10 @@ main:
 # ----------------------------
 
 teaching_nav:
+  - title: "Advising"
+    url: /advising/
   - title: "Teaching"
     url: /teaching/
   - title: "Mentoring"
     url: /mentoring/
-  - title: "Advising"
-    url: /advising/
     
