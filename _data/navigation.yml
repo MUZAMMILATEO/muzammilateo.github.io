@@ -19,6 +19,8 @@ main:
     children:
       - title: "Teaching"
         url: /teaching/
+      - title: "Advising"
+        url: /advising/
     
   - title: "Portfolio"
     url: /portfolio/
@@ -45,4 +47,6 @@ teaching_nav:
     url: /teaching/
   - title: "Mentoring"
     url: /mentoring/
+  - title: "Advising"
+    url: /advising/
     
