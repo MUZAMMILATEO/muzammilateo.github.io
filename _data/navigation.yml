@@ -14,6 +14,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Advising"
+    url: /advising/
+
   - title: "Mentoring"
     url: /mentoring/    
     children:
@@ -45,3 +48,5 @@ teaching_nav:
     url: /teaching/
   - title: "Mentoring"
     url: /mentoring/
+  - title: "Advising"
+    url: /advising/
