@@ -26,11 +26,11 @@ author:
   avatar           : "khanm2026_.png"
   name             : "Muzammil Khan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Computer Vision and AI for Medical Imaging"
-  location         : "Enschede, The Netherlands"
-  employer         : "University of Twente"
+  bio              : "Postdoctoral Researcher in AI for Medical Imaging and Multi-modal Data Analysis"
+  location         : "Rotterdam, The Netherlands"
+  employer         : "Erasmus Medical Center Rotterdam"
   uri              : # URL
-  email            : "m.khan@utwente.nl" 
+  email            : "m.khan.2@erasmusmc.nl" 
 
   # Academic websites
   academia         : # URL
